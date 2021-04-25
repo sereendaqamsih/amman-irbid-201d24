@@ -1,0 +1,17 @@
+nav ul li {
+  border: 1px solid red;
+  display: inline-block;
+  width: 100px;
+}
+#userName {
+  font-size: 35px;
+  display: inline-block;
+  width: 300px;
+  border: 1px solid green;
+}
+#logo {
+  width: 100px;
+}
+.mainImgs {
+  border: 5px solid blue;
+}
